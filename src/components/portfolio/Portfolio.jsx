@@ -22,9 +22,9 @@ const data = [
 	  {
 		id: 3,
 		image: IMG3,
-		title: 'Figma dashboard UI kit for data design web apps',
-		github: 'https://github.com',
-		demo: 'https://dribbble.com/shots/17290917-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
+		title: 'Todo List Application',
+		github: 'https://github.com/KevinC555/react-todo-app',
+		demo: 'https://kevinc555.github.io/react-todo-app/'
 	  }
 ];
 
