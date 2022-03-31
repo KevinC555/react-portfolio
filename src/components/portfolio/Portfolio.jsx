@@ -8,16 +8,16 @@ const data = [
 	{
 		id: 1,
 		image: IMG1,
-		title: 'Crypto Currency Dashboard & Financial Visualization',
-		github: 'https://github.com',
-		demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+		title: 'Amazon Clone Challenge',
+		github: 'https://github.com/KevinC555/Amazon-Clone',
+		demo: 'https://kevinc555.github.io/Amazon-Clone/'
 	  },
 	  {
 		id: 2,
 		image: IMG2,
-		title: 'Charts templates & infographics in Figma',
-		github: 'https://github.com',
-		demo: 'https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+		title: 'React Calculator',
+		github: 'https://github.com/KevinC555/React-Calculator',
+		demo: 'https://kevinc555.github.io/React-Calculator/'
 	  },
 	  {
 		id: 3,
